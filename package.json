@@ -1,5 +1,5 @@
 {
-  "name": "clerk-bundle-size",
+  "name": "next-13-clerk-bundle-size",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
     "@types/node": "18.15.11",
     "@types/react": "18.0.35",
     "@types/react-dom": "18.0.11",
+    "@clerk/nextjs": "^4.16.2",
     "next": "13.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
